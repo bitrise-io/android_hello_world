@@ -15,3 +15,4 @@ asdasdasd
 
 asdasd
 asd
+AWS_ACCESS_KEY_ID=almafa123ccasd3
